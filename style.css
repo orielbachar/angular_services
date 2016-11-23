@@ -1,0 +1,15 @@
+li{
+  list-style-type: none;
+}
+
+span{
+  margin-left: 25px;
+}
+
+li:hover{
+  text-decoration: line-through;
+}
+
+.itemDone{
+  text-decoration: line-through;
+}
